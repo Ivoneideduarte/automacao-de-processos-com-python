@@ -23,5 +23,5 @@ https://pyautogui.readthedocs.io/en/latest/
 
 ### Instalação das bibliotecas
 1. Abrir o Anaconda Prompt (anaconda3)
-    `pip install pyautogui`   
-    `pip install pyperclip`
+    1. `pip install pyautogui`   
+    2. `pip install pyperclip`
