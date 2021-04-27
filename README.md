@@ -17,3 +17,6 @@ automaticamente
 ### Canal: Hashtag Programação
 Para instalar o Jupyter/Anaconda: 
 Instalando o Jupyter - Pacote Anaconda para Programação em Python - https://www.youtube.com/watch?v=_eK0z5QbpKA&t=0s
+
+### Documentação do PyAutoGUI
+https://pyautogui.readthedocs.io/en/latest/
