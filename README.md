@@ -16,9 +16,9 @@ automaticamente
 
 ## 2. Projeto completo de análise de dados
 
-## 3. Ciência de dados com projeto de previsão
+## 3. Do zero a um projeto completo de Ciência de Dados e Inteligência Artificial
 
-## 4. Automação Web com Python
+## 4. Automação Web (Web Scraping) com Python
 
 ### Canal: Hashtag Programação
 Para instalar o Jupyter/Anaconda: 
