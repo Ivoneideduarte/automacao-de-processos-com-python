@@ -28,6 +28,6 @@ Instalando o Jupyter - Pacote Anaconda para Programação em Python - https://ww
 https://pyautogui.readthedocs.io/en/latest/
 
 ### Instalação das bibliotecas
-1. Abrir o Anaconda Prompt (anaconda3)
+1. Abra o Anaconda Prompt (anaconda3) e digite os comandos abaixo:
     1. `pip install pyautogui`   
     2. `pip install pyperclip`
