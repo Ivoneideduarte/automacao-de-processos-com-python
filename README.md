@@ -1,9 +1,9 @@
-# Automação de processos e tarefas com Python
- Semana do Python da hashtag- Aprenda a criar um código de automação de análise de dados e elaboração de relatórios do absoluto zero.
+# Semana do Python da Hashtag
 
- Aprenda a automatizar qualquer processo ou sistema com o Python.
-
-## Principais conceitos:
+## 1. Automação de processos e tarefas com Python
+Semana do Python da hashtag- Aprenda a criar um código de automação de análise de dados e elaboração de relatórios do absoluto zero.
+Aprenda a automatizar qualquer processo ou sistema com o Python.
+### Principais conceitos:
  1. Jupyter Notebook
  2. Variáveis, métodos
  3. Importação de 
@@ -13,6 +13,12 @@ bibliotecas
 pyperclip)
  5. Enviar e-mails 
 automaticamente
+
+## 2. Projeto completo de análise de dados
+
+## 3. Ciência de dados com projeto de previsão
+
+## 4. Automação Web com Python
 
 ### Canal: Hashtag Programação
 Para instalar o Jupyter/Anaconda: 
