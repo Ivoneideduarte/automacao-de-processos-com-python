@@ -31,3 +31,4 @@ https://pyautogui.readthedocs.io/en/latest/
 1. Abra o Anaconda Prompt (anaconda3) e digite os comandos abaixo:
     1. `pip install pyautogui`   
     2. `pip install pyperclip`
+    3. `pip install plotly`
