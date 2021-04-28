@@ -32,3 +32,8 @@ https://pyautogui.readthedocs.io/en/latest/
     1. `pip install pyautogui`   
     2. `pip install pyperclip`
     3. `pip install plotly`
+
+### Como Ativar o Preenchimento Automático no Jupyter
+    1. `pip install jupyter_contrib_nbextensions`
+    2. `jupyter contrib nbextension install --user`
+    3. Passo a passo: Hashtag Programação - https://www.youtube.com/watch?v=LLio025rKc0
